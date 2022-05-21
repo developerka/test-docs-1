@@ -3,7 +3,7 @@ name: Add docs to docs project
 on:
   issues:
     types:
-      - opened
+      - labeled
 
 jobs:
   add-to-project:
